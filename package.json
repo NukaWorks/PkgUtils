@@ -1,6 +1,6 @@
 {
-  "name": "pkgutils",
-  "version": "1.0.0",
+  "name": "@sunproject.xyz/pkgutils",
+  "version": "1.0.1",
   "description": "Simple Node.js library for packages management.",
   "repository": {"url": "https://repo.sunproject.xyz/SunProject.xyz/pkgutils.git"},
   "keywords": [

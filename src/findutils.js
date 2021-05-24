@@ -8,4 +8,4 @@ const findPackage = (package) => {
     }
   };
 
-export { findPackage };
+export default findPackage;
