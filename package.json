@@ -1,13 +1,26 @@
 {
-  "name": "@sunproject.xyz/pkgutils",
+  "name": "@nutdevs-org/pkgutils",
   "version": "1.0.14",
   "description": "Simple Node.js library for packages management.",
-  "repository": {"url": "https://repo.sunproject.xyz/SunProject.xyz/pkgutils.git"},
+  "private": false,
+  "repository": {
+    "url": "git+https://github.com/NutDevs-org/PkgUtils.git"
+  },
   "main": "./pkgutils.js",
   "keywords": [
-    "require"
+    "pkgutils"
   ],
-  "author": "sundev79 <sundev79@sunproject.xyz>",
-  "url": "https://repo.sunproject.xyz/SunProject.xyz/pkgutils.git",
-  "license": "MIT"
+  "author": "sundev79 <sundev79@nutdevs.org>",
+  "url": "https://github.com/NutDevs-org/PkgUtils.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NutDevs-org/PkgUtils/issues"
+  },
+  "homepage": "https://github.com/NutDevs-org/PkgUtils#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
